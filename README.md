@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @garywige
-- 👀 I’m interested in .NET coding
-- 🌱 I’m currently learning ASP.NET Core & WPF
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested Angular, .NET Core, and modern web development techniques
+- 🌱 I’m currently learning Angular
+- 💞️ I’m looking to collaborate on open source typescript projects
 
 <!---
 garywige/garywige is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
