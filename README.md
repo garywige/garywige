@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Welcome to my GitHub profile! I love coding in all its forms, but my current focus is web development because that appears to reach the largest audience these days. My dream is to produce, or to help produce, quality cloud-based solutions that will satisfy users from around the globe. 
+Welcome to my GitHub profile! I love coding in all its forms, but my current focus is web development because that appears to reach the largest audience these days. My dream is to produce, or to help produce, quality software solutions that will satisfy users from around the globe. 
 
 ### Current Interests
 
@@ -22,4 +22,4 @@ I devoured that magazine and I had no idea how long the rabbit hole was that I w
 
 DirectX was tough. I tried starting with books on DirectX and it didn't take long for my lack of C++ knowledge to get in the way. I found an online game programming school named [Game Institute](https://courses.gameinstitute.com/) and took all of their available C++ courses. I took most of the available DirectX courses and absolutely loved working with it. Win32 programming was fun too but that was already an obsolete way of coding GUI apps now that XAML had been around at that time. I kind of got burnt out on game programming, but it was great experience.
 
-I then decided to focus on learning how to develop LOB apps. I learned WPF and developed some great IT-related tools with .NET. I picked back up my web development studies. I learned ASP.NET and Entity Framework. I still found myself limited by my lack of JavaScript knowledge, so I sharpened that up as well. Now, I develop web sites as a side-gig and I suspect that I'll be doing this fulltime in the very near future. I also recognize that there are others, like me from 20 years ago, that need a gentle nudge to start their coding journey. I am committed to produce content that others can learn from and I have just recently started writing a PowerShell scripting series that you can find here on GitHub. 
+I then decided to focus on learning how to develop LOB apps. I learned WPF and developed some great IT-related tools with .NET. I picked back up my web development studies. I learned ASP.NET and Entity Framework. I still found myself limited by my lack of JavaScript knowledge, so I sharpened that up as well. Now, I develop web sites as a side-gig and my hope is that I'll be doing this fulltime in the very near future. I also recognize that there are others, like me from 20 years ago, that need a gentle nudge to start their coding journey. I am committed to produce content that others can learn from and I have just recently started writing a PowerShell scripting series that you can find here on GitHub. 
