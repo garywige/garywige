@@ -2,9 +2,9 @@
 
 ### Introduction
 
-Welcome to my GitHub profile! I love coding in all its forms. My dream is to produce, or to help produce, quality software solutions that will satisfy users from around the globe. 
+Welcome to my GitHub profile! I love coding in all its forms. 
 
-### Current Interests
+### Topics of Interest
 
 - .NET Core
 - Angular
@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I love coding in all its forms. My dream is to pro
 - PowerShell
 - TypeScript
 - Docker
+- DirectX
 
 ### My Background
 
